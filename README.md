@@ -11,4 +11,3 @@ been carried out to aid rapid translation of COVID-19 related material
 in several major languages. However, absent among the languages served
 is Irish.
 
-[Link to access online interface](http://covid19-mt.computing.dcu.ie/)
